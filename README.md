@@ -27,6 +27,7 @@
     * https://jvns.ca/
     * https://doc.rust-lang.org/rust-by-example/
     * https://tenthousandmeters.com/
+    * https://nullprogram.com/
 * CTFs
     *   http://infoseciitr.in/reading-material/
     *   https://backdoor.sdslabs.co/
