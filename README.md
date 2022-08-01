@@ -92,7 +92,7 @@
     *   http://pages.di.unipi.it/ricci/501302.pdf
     *   https://www.grc.com/nat/nat.htm
     *   https://fasterthanli.me/series
-    *
+    *   https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf
 
 * Math
     *   https://planetmath.org/
